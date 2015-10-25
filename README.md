@@ -49,6 +49,17 @@
 
 ## 業者資訊
 
+## 農業與自然環境
+
+##### Data
+
+* [十分鐘雨量資料](http://opendata.epa.gov.tw/Data/Contents/RainTenMin/): 全國各測站累積雨量觀測資料(中央氣象局綜整，含10分鐘、1小時、3小時、6小時、12小時、24小時累積雨量資料)
+* [土壤及地下水污染場址位置地理圖資](http://opendata.epa.gov.tw/Data/GeoDetails/GISP24/): 顯示台灣本島經調查確認其土壤或地下水遭受污染之工廠、農地、加油站等，場址所在位置。
+
+##### Project
+
+* [雨為財](http://odrain.devdon.com/home): 顯示田區附近降雨量資訊
+
 ## 交易行情
 
 ##### Data
