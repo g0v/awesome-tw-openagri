@@ -45,7 +45,7 @@
 
 ##### Project
 
-* [超農域系統](http://g0v.github.io/agriculture/pesticide/usages/)
+* [超農域](https://g0v.hackpad.com/ep/group/tg4zk2ixiDn) ([超農域系統](http://g0v.github.io/agriculture/pesticide/usages/))
 
 ## 業者資訊
 
