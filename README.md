@@ -74,7 +74,7 @@
 
 ##### Project
 
-* [農學地圖](http://g0v.github.io/farmer/)
+* [農業生產者資訊揭露平台](https://g0v.hackpad.com/gvkD1y2n6vg) ([農學地圖](http://g0v.github.io/farmer/))
 
 ## 食品安全
 
