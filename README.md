@@ -58,6 +58,7 @@
 ##### Project
 
 * [全台蔬菜交易視覺化(1,905)](http://muyueh.com/30/veggieprice/ggplot2/)
+* [果菜花終端機](http://muyueh.com/30/veggie_c/list.html)
 * [市場行情通](http://www.markettrade.com.tw/)
 
 ## 生產追溯
