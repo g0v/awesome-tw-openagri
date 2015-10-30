@@ -23,7 +23,7 @@
 ##### Data
 
 * [台灣農產品標準分類編碼系統](http://coa.gs1tw.org/app/COA/COAUser_Search.jsp?MTOP=A)
-* [台灣農產品標準分類編碼系統+農產品交易行情-作物名稱](https://docs.google.com/spreadsheets/d/1q6YAHl9Vm1j5pJTkz-9ftXfH3Jv3uXqjW_nt9puD6H0/edit#gid=149857196)
+* [台灣農產品標準分類編碼系統+農產品交易行情-作物名稱 (csv)](https://docs.google.com/spreadsheets/d/1q6YAHl9Vm1j5pJTkz-9ftXfH3Jv3uXqjW_nt9puD6H0/edit#gid=149857196)
 
 #### 基本資訊
 
