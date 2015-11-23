@@ -42,6 +42,8 @@
 
 * [有機農業全球資訊網 -- 全年菜園管理-蔬菜播種時間及適溫 ](http://info.organic.org.tw/supergood/front/bin/ptdetail.phtml?Part=22-2&PreView=1)
 
+* [臺灣蔬菜播種適期](https://docs.google.com/spreadsheets/d/1bKjX-HfvP-VkEjNE7hFXHY20jsa3igi3WlrU6zoyHCA/edit?usp=sharing)
+
 #### 病蟲害
 
 ##### Project
