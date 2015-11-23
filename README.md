@@ -6,6 +6,7 @@
 - [栽培資料](#栽培資料)
   - [栽培法](#栽培法)
   - [病蟲害](#病蟲害)
+  - [農業名詞/術語]()
 - [業者資訊](#業者資訊)
 - [農業環境資訊](#農業環境資訊)
 - [交易行情](#交易行情)
@@ -35,6 +36,12 @@
 * [農作物開放資料](https://g0v.hackpad.com/temp-kCmdNxq7RUe)
 
 ## 栽培資料
+
+#### 農業名詞 / 術語
+
+##### Data
+
+* [農業名詞對照](https://docs.google.com/spreadsheets/d/1ZFg2igdeSVOpUGFULKxU0DPxvhp1ZnNg0RdMlTv96oM/edit?usp=sharing)
 
 #### 栽培法
 
