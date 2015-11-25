@@ -13,8 +13,8 @@
 - [生產追溯](#生產追溯)
 - [生產 / 通路資訊](#生產--通路資訊)
 - [食品營養 / 安全](#食品營養--安全)
-- [農情資訊](#農情資訊)
 - [農產銷售](#農產銷售)
+- [農情資訊](#農情資訊)
 - [其他 / 綜合](#其他--綜合)
 
 ## 農產品基本資料
@@ -68,6 +68,8 @@
 
 ##### Project
 
+* [好愛米](http://cft.okfn.tw/content/good-rice.html)
+* [從農安到食安 From Farmland Security to Food Security](https://dsp.hackpad.com/-From-Farmland-Security-to-Food-Security-KlgvSxg3Egi)
 * [雨為財](http://odrain.devdon.com/home): 顯示田區附近降雨量資訊
 
 ## 交易行情
@@ -102,11 +104,16 @@
 ## 食品營養 / 安全
 
 ##### Data
+
 * [食品營養成分資料庫](https://consumer.fda.gov.tw/Food/TFND.aspx?nodeID=178)
 
-## 農情資訊
+##### Project
+
+* [開放食庫](http://cft.okfn.tw/content/open-food.html)
 
 ## 農產銷售
+
+## 農情資訊
 
 ##### Project
 
