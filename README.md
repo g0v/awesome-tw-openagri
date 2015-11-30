@@ -33,6 +33,8 @@
 
 * [蔬菜 - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/%E8%94%AC%E8%8F%9C#.E7.A7.8D.E7.B1.BB)
 
+* [植物品種權公告查詢系統](http://newplant.afa.gov.tw/)
+
 #### Project
 
 * [農作物開放資料](https://g0v.hackpad.com/temp-kCmdNxq7RUe)
