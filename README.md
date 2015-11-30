@@ -25,6 +25,8 @@
 
 * [台灣農產品標準分類編碼系統+農產品交易行情-作物名稱](https://docs.google.com/spreadsheets/d/1q6YAHl9Vm1j5pJTkz-9ftXfH3Jv3uXqjW_nt9puD6H0/edit#gid=149857196)
 
+* [臺北農產運銷股份有限公司 - 果菜品名代碼表](https://docs.google.com/spreadsheets/d/17NT5YsF1_0KG26bCjVn-vZ7x3SURLmYcXhC_nHmAgFk/edit?usp=sharing)
+
 #### 基本資訊
 
 ##### Data
