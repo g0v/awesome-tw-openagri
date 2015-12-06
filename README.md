@@ -90,6 +90,7 @@
 * [果菜花終端機](http://muyueh.com/30/veggie_c/list.html)
 * [yhunglee/agri_data_crawler](https://github.com/yhunglee/agri_data_crawler)
 * [市場行情通](http://www.markettrade.com.tw/)
+* [台灣當季食材](http://www.twfood.cc/)
 
 ## 生產追溯
 
