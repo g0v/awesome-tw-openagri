@@ -46,6 +46,10 @@
 ##### Data
 
 * [農業名詞對照](https://docs.google.com/spreadsheets/d/1ZFg2igdeSVOpUGFULKxU0DPxvhp1ZnNg0RdMlTv96oM/edit?usp=sharing)
+* [農藥藥劑名稱與廠牌名稱](https://data.coa.gov.tw/Service/OpenData/FromM/PesticideData.aspx)
+* [作物分類關聯清單](https://data.coa.gov.tw/Service/OpenData/TransService.aspx?UnitId=LC7YWlenhLuP)
+* [水保局五語詞彙beta版](https://tech.swcb.gov.tw/Education/EducationVocabulary?page=2)
+* [水稻品種資料庫](http://kiscrop.tari.gov.tw/KISCROP/Apps/C5/C5000Frameset.aspx?plant_code=001&plant_name=%E6%B0%B4%E7%A8%BB)
 
 #### 栽培法
 
@@ -96,7 +100,7 @@
 
 ##### Data
 
-* [臺灣農產品安全追溯資訊網](http://taft.coa.gov.tw/)
+* [產銷履歷農產品資訊網](https://taft.coa.gov.tw/)
 
 ##### Project
 
